@@ -19,8 +19,8 @@ Silahkan install manual ```node_modules``` terlebih dahulu, karena di termux saa
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/16CV6KWAKdo82LlNoOGMeZS8trlAw4Nsy/view?usp=drivesdk)
 ```bash
 $ pkg install git nodejs -y
-$ git clone https://github.com/Sansekai/WaBot-Broadcast
-$ cd WaBot-Broadcast
+$ git clone https://github.com/nurmuhamadwafa/wa-broadcast
+$ cd wa-broadcast
 ```
 Sesusah menginstall file node_modules, silahkan extract file ```node_modules.zip``` dan taruh di folder WaBot-Broadcast.
 
@@ -37,9 +37,6 @@ contoh penginputan nomorya: ```["6281259261277","62812710385261","6289530877869"
 Ingat ya seperti di atas jangan sampai salah, kalau salah botnya gak bisa jalan.
 
 Bot masih banyak kekurangan, kalian bisa mengembangkannya sendiri supaya lebih bagus.
-
-## Donate
-[Saweria](https://saweria.co/sansekai)
 
 ## License
 [MIT License](https://github.com/Sansekai/WaBot-Broadcast/blob/main/LICENSE)
